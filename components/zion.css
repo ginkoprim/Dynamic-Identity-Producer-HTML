@@ -1,0 +1,30 @@
+.zion-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.zion-mouse {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.zion-image {
+  width: 200px;
+  object-fit: cover;
+}
+.zion-fragment1 {
+  display: contents;
+}
+.zion-text3 {
+  display: inline-block;
+}
+.zion-fragment2 {
+  display: contents;
+}
+.zion-text4 {
+  display: inline-block;
+}
